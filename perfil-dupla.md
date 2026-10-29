@@ -14,3 +14,4 @@ Suécia
 
 ## Série ou filme favorito da dupla
 Midsommar
+todo mundo em pânico
