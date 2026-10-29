@@ -1,17 +1,16 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-Yuri e Alisson 
+Yuri e Alisson
 
 ## Cor favorita da dupla
-Azul
+Roxo
 
 ## Comida favorita da dupla
-Macarronada
-
-## Frase da dupla
-Lasanha
 KFC
 
 ## Frase da dupla
 Suécia
+
+## Série ou filme favorito da dupla
+Midsommar
