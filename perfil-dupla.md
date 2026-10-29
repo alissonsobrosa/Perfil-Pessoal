@@ -11,3 +11,7 @@ Macarronada
 
 ## Frase da dupla
 Lasanha
+KFC
+
+## Frase da dupla
+Suécia
